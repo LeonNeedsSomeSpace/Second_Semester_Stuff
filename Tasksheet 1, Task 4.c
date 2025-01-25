@@ -16,7 +16,6 @@ float timestwo(float a) {
 size_t timestwo(size_t a) {
 	return 2 * a; 
 }
-
 //Print every number in the interval and its respective multiple by 2. Note that integers will be considered only
 int main(void) {
 	printf("Digits and their double: \n\n"); 
